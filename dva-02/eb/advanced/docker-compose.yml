@@ -14,4 +14,4 @@ services:
       - ./sql/seed.sql:/docker-entrypoint-initdb.d/seed.sql
 volumes:
   db:
-    driver: local 
+    driver: local
