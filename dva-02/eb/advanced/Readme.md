@@ -69,7 +69,7 @@ brew install python@3.11
 ```sh
 pip install virtualenv
 virtualenv -p python3.11 ~/myenv
-source ~/myenv/bin/activate
+source cd into myenv and type in .\Scripts\activate
 python --version
 pip install awsebcli --upgrade
 ```
